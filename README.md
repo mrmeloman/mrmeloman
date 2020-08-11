@@ -1,7 +1,7 @@
 ## Hi! My name is Mikhail Reshetnikov
 
 ### I'm a cognitive scientist with a bit of IT background
-**What I do:**
+**Things that I do:**
 - Software for presenting stimuli in cognitive experiments (mostly problem solving)
 - Various data analysis scripts
 - Code from my own research (it usually falls under first two categories)
