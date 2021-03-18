@@ -11,4 +11,4 @@
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" height = 2% width = 2%>[ Vkontakte](https://vk.com/winged_sphinx)
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" height = 2% width = 2%>[ Telegram](https://t.me/mrmeloman)
 
-- <img src = "https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" height = 2% width = 2%>[ Support me](https://www.buymeacoffee.com/rehaile)
+<!-- - <img src = "https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" height = 2% width = 2%>[ Support me](https://www.buymeacoffee.com/rehaile) -->
