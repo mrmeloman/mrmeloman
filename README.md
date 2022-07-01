@@ -12,4 +12,4 @@
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" height = 2% width = 2%>[ Telegram](https://t.me/mrmeloman)
 
 **Support me:**
-<a href="https://www.buymeacoffee.com/rehaile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+- <a href="https://www.buymeacoffee.com/rehaile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
