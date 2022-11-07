@@ -5,6 +5,7 @@
 - Software for presenting stimuli in cognitive experiments (mostly problem solving)
 - Various data analysis scripts
 - Code from my own research (it usually falls under first two categories)
+- Various chat bots for Telegram and Discord
 
 **You can contact me via:**
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" height = 2% width = 2%>[ E-mail](mailto:mi.reshetnikov@yandex.ru)
